@@ -2,6 +2,11 @@ var suggestedMovies;
 var allMovies;
 var searchBy;
 var input; 
+var directors = [];
+var minyear;
+var maxyear;
+var countries = [];
+var genres = [];
 
 
 var xhr = new XMLHttpRequest();
@@ -14,32 +19,48 @@ xhr.onload = function () {
     if (xhr.readyState === xhr.DONE) {
         if (xhr.status === 200) {
          
-		allMovies = CSVToArray(xhr.responseText);
+      		allMovies = CSVToArray(xhr.responseText);
 
-		console.log(allMovies[0]);
-		if (searchBy == 'Director') {
-			
-			/* render search bar */
-		} else if (searchBy == 'Year') {
-			/* render slider */
+      		console.log(allMovies[0]); /*testing*/
 
-		} else if (searchBy == 'Country') {
-			/* render map */
-		} else if (searchBy == 'Genre') {
-			/* render radio buttons */
-		} else {
-			/* show all? */
-			suggestedMovies = allMovies;
-			showAll();
-		}
+          $.each(allMovies, function(index, value){
+              if(directors.indexOf(value['director']) === -1){
+                  directors.push(value['director']);
+                }
+          });
 
-		for (var i = 0; i < allMovies.length; i++) {
-			if (allMovies[i][searchBy] == input) {
-				/* add to suggested */
-				suggestedMovies.push(allMovies[i]);
-			}
-		}
-		
+          /*
+
+          for (var i = 0; i < directors.length; i++) {
+             var $input = $('<input type="button" value="'+directors[i]+'" />');
+             $input.appendTo($("body"));
+          }
+*/
+
+
+          $.each(allMovies, function(index, value){
+              if(countries.indexOf(value['country']) === -1){
+                  countries.push(value['country']);
+              }
+          });
+
+                    /*
+
+          for (var i = 0; i < countries.length; i++) {
+             var $input = $('<input type="button" value="'+countries[i]+'" />');
+             $input.appendTo($("body"));
+          }
+*/
+
+          /* finish genres */
+
+          
+          console.log(directors);     
+          console.log(countries); 
+
+
+
+      		
 
 
         }
@@ -55,26 +76,38 @@ xhr.send(null);
 
 
 function searchByDirector() {
-	searchBy = 'd';
+            $("director-search").show();
+            $("year-search").hide();
+            $("country-search").hide();
+            $("genre-search").hide();
 }
 
 
 function searchByYear() {
-	searchBy = 'y'
+            $("director-search").hide();
+            $("year-search").show();
+            $("country-search").hide();
+            $("genre-search").hide();
 }
 
 
 
 
 function searchByCountry() {
-	
+	            $("director-search").hide();
+            $("year-search").hide();
+            $("country-search").show();
+            $("genre-search").hide();
 }
 
 
 
 
 function searchByGenre() {
-	
+	            $("director-search").hide();
+            $("year-search").hide();
+            $("country-search").hide();
+            $("genre-search").show();
 }
 
 

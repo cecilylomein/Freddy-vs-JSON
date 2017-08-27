@@ -1,0 +1,229 @@
+name	year	director	country	genres	Watched
+Blue is the Warmest Color (La Vie D'Adèle -- Chapitres 1 & 2)	2013	Abdellatif Kechiche	France	"coming of age, romantic drama"	x
+Memento	2000	Christopher Nolan	USA	"neo-noir, psychological, thriller"	
+Royal Tenenbaums	2001	Wes Anderson	USA	comedy drama	
+Moonrise Kingdom	2012	Wes Anderson	USA	"coming of age, romantic drama"	x
+The Grudge	2004	Takashi Shimizu	USA	"supernatural, horror"	
+Psycho	1960	Alfred Hitchcock	USA	horror	x
+Scream	1996	Wes Craven	USA	"horror, slasher"	
+The Texas Chain Saw Massacre	1974	Tobe Hooper	USA	"horror, slasher"	
+the fly	1986	David Cronenberg	USA	"horror, science fiction"	
+the mummy	1932	Karl Freund	USA	"horror, pre-code, classic"	
+rosemary’s baby	1968	Roman Polanski	USA	"horror, psychological"	
+nightmare on elm st	1984	Wes Craven	USA	"supernatural, slasher, horror"	
+silence of the lambs	1991	Jonathan Demme	USA	"horror, thriller"	
+halloween	1978	John Carpenter	USA	"horror, slasher, independent"	
+the thing	1982	John Carpenter	USA	"horror, science fiction"	
+paranormal activity	2007	Oren Peli	USA	"supernatural, horror, "	
+The Blair Witch Project	1999	"Daniel Myrick, Eduardo Sanchez"	USA	"psychological, horror, supernatural, found footage"	
+poltergeist	1982	Tobe Hooper	USA	"supernatural, horror"	
+beetlejuice	1988	Tim Burton	USA	"comedy, fantasy"	
+the birds	1963	Alfred Hitchcock	USA	"horror, thriller"	
+ringu	1998	Hideo Nakata	Japan	"psychological, horror"	
+nosferatu	1922	F.W. Murnau	German	"expressionist, horror, classic"	
+The Hills Have Eyes	1977	Wes Craven	USA	"exploitation, horror "	
+the haunting	1963	Robert Wise	UK	"psychological, horror"	
+sixth sense	1999	M. Night Shyamalan	USA	"supernatural, horror, thriller"	
+Mulholland dr.	2001	David Lynch	USA	"neo-noir, mystery, surrealist"	
+the omen	1976	Richard Donner	"USA, UK"	"supernatural, horror"	
+Clueless	1995	Amy Heckerling	USA	"coming of age, comedy"	
+10 Things I Hate About You 	1999	Gil Junger	USA	"coming of age, romantic comedy"	
+American Beauty	1999	Sam Mendes	USA	"drama, black comedy"	
+Mad Max	1980	George Miller	Australia	"dystopian, action"	
+Se7en	1995	David Fincher	USA	"neo-noir, crime, thriller"	
+8 Mile	2002	Curtis Hanson	USA	"drama, music"	
+The Holy Mountain	1973	Alejandro Jodorowsky	Mexico	"fantasy, surrealist, arthouse"	
+There Will Be Blood	2007	Paul Thomas Anderson	USA	drama	
+Tampopo	1985	Juzo Itami	Japan	comedy	
+Super 8	2011	J.J. Abrams	USA	"science fiction, thriller"	
+Up In Smoke	1978	Lou Adler	USA	"stoner, comedy, drugs"	
+What We Do In The Shadows	2014	"Jermaine Clement, Taika Waititi"	New Zealand	"mockumentary, horror, comedy, black comedy"	
+What’s Eating Gilbert Grape	1993	Lasse Hallstrom	USA	drama	
+Dope	2015	Rick Famuyiwa	USA	"coming of age, comedy, drama, drugs"	
+Burn After Reading	2008	"Ethan Coen, Joel Coen"	USA	black comedy	
+Victoria	2015	Sebastian Schipper	Germany	"single shot, drama"	
+Tangerine	2015	Sean Baker	USA	"comedy, drama, crime"	
+A Clockwork Orange	1971	Stanley Kubrick	USA	"dystopian, surrealist, crime, science fiction"	
+Blade Runner	1982	Ridley Scott	USA	"neo-noir, science fiction, fantasy"	
+A Woman Is A Woman (Une Femme Est Une Femme)	1961	Jean-Luc Godard	France	"drama, romance"	
+Belladonna of Sadness	1973	Eiichi Yamamoto	Japan	"fantasy, drama, surrealist, arthouse, animated"	
+Neverending Story	1984	Wolfgang Petersen	Germany	"fantasy, drama"	
+Dazed and Confused	1993	Richard Linklater	USA	"coming of age, comedy"	
+Twin Peaks: Fire Walk With Me	1992	David Lynch	USA	"psychological, horror, surealist, crime, fantasy, mystery"	
+Daisies (Sedmikrásky)	1966	V_ra Chytilová	Czech Republic	"comedy, drama"	
+Cowards Bend The Knee / Blue Hands	2003	Guy Maddin	Canada	"drama, indie, surrealist, arthouse"	
+Black Swan	2010	Darrn Aronofsky	USA	"psychological, horror, thrhiller"	
+Dance of Reality	2013	Alejandro Jodorowsky	"Chile, France"	"musical, fantasy, drama, surrealist"	
+Being John Malkovich	1999	Spike Jonze	USA	"fantasy, comedy, drama"	
+Blue Velvet	1986	David Lynch	USA	"neo-noir, crime, drama, mystery"	
+Eraserhead	1977	David Lynch	USA	"surrealist, body horror, horror, black-and-white, arthouse"	
+Destino	2003	Dominique Monféry	USA	"disney, short film, animated, surrealist"	
+Blood tea and red string	2006	Christiane Cegavske	USA	"fantasy, indie, animated, stop-motion"	
+Under the skin 	2013	Jonathan Glazer	USA	"fantasy, science fiction"	
+Your Name (Kimi no nawa)	2017	Makoto Shinkai	Japan	"animated, fantasy, drama"	
+the graduate	1967	Mike Nichols	USA	"drama, comedy"	
+The Talented Mr. Ripley	1999	Anthony Minghella	USA	"crime, drama, thriller, mystery"	
+almost famous	2000	Cameron Crowe	USA	"comedy, drama"	
+imaginarium of dr. parnassus	2009	Terry Gilliam	USA	"fantasy, mystery"	
+hip-hop evolution	2016	Darby Wheeler	Canada	"music, documentary"	
+stretch and bobitto	2015	Bobbito Garcia	USA	"music, documentary"	
+Carlito's way	1993	Brian De Palma	USA	"crime, drama"	
+Animal House	1978	John Landis	USA	"comedy, college"	
+2001: Space Odyssey					
+Fargo					
+Brazil					
+Lost in Translation - Sofia Coppola					
+After Hours - Scorsese					
+Akira					
+Blazing Saddles - Mel Brooks					
+Monty Python and the holy grail					
+Bananas - Woody Allen					
+Annie Hall - Woody Allen					
+This is spinal tap					
+Coming to America					
+Rushmore - Wes Anderson					
+Boogie Nights					
+Good Will Hunting					
+Milk					
+My Own Private Idaho					
+Midnight Cowboy					
+Anchorman					
+Some like it hot					
+the philadelphia story					
+in the mood for love					
+when harry met sally					
+talk to her					
+8 1/2					
+the red shoes					
+pina					
+rocky horror					
+singing in the rain					
+freaks					
+dracula					
+plan 9 from outer space					
+revenge of the body snatchers					
+night of the living dead					
+suspiria					
+halloween					
+the exorcist					
+fat girl					
+king kong					
+jaws					
+alien					
+star wars 4					
+raiders of the lost ark					
+back to the future					
+jurassic park					
+terminator 					
+terminator 2					
+the matrix					
+dark knight					
+"crouching tiger, hidden dragon"					
+enter the dragon					
+the third man					
+sunset boulevard					
+it’s a wonderful life					
+casablanca					
+vertigo					
+modern times					
+cabinet of dr. caligari					
+metropolis					
+videodrome					
+ET					
+breakfast club					
+the goonies					
+sandlot					
+toy story					
+scarface					
+goodfellas					
+the godfather					
+citizen kane					
+social network					
+raging bull					
+taxi driver - scorsese					
+rocky					
+chinatown 					
+apocalypse now					
+"the good, the bad, and the ugly"					
+the wild bunch					
+seven samurai					
+rashomon					
+breathless					
+the dreamers					
+the seventh seal					
+do the right thing					
+brazil					
+sweet sweetback’s badass song					
+sex lies nad videotape					
+shawshank redemption					
+pulp fiction					
+down by law					
+saving private ryan					
+thin red line					
+hunger					
+pink flamingos					
+deep throat					
+somewhere					
+virgin suicides					
+thank you for smoking					
+delicatessen					
+dr. strangelove					
+shaun of the dead					
+big lebowski					
+fear and loathing in LV					
+full metal jacket					
+trainspotting					
+american psycho					
+an andalusian dog					
+serial mom					
+happiness					
+bride of chucky					
+fight club					
+kill bill					
+somewhere					
+upstream color					
+elephant					
+the fountain					
+eternal sunshine of the spotless mind					
+enter the void					
+requiem for a dream					
+antichrist					
+badlands					
+donnie darko					
+primer					
+melancholia					
+tree of life					
+gerry					
+another earth					
+Andrei Rublev					
+L'atalante					
+Tokyo Story					
+days of heaven					
+fanny and alexander					
+the white ribbon					
+the gospel according to st matthew					
+lion king					
+beauty and the beast					
+mulan					
+moana					
+distant voices					
+there will be blood					
+the graduate					
+bambi					
+death in venice					
+an andalusian dog					
+R100					
+the seashell and the clergyman					
+black moon					
+the fall					
+meshes of the afternoon					
+l’age d'or					
+santa sangre - jodorowsky					
+"synecdoche, new york "					
+last year in marienbad					
+a field in england					
+house					
+el topo - jodorowsky					
+naked lunch					
+dreams					
+pink floyd: the wall					
